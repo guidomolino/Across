@@ -10956,7 +10956,12 @@ body {
 
 .container {
   text-align: center;
-  width: 400px;
-  margin: auto;
+  width: 500px;
+  margin: 5em auto;
+}
+
+.container div.form-group span {
+  position: absolute;
+  transform: translate(-28%, 150%);
 }
 
